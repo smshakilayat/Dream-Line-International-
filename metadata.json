@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI Companion",
+  "description": "Personalized AI conversational companion with adaptive personality, evolving long-term memory, and relationship continuity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
